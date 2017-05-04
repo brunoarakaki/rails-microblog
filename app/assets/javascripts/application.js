@@ -15,6 +15,8 @@
 //= require bootstrap
 //= require turbolinks
 //= require_tree .
+
+//bootstrap dropdown fix
 $(document).ready(function() {
     $(".dropdown-toggle").dropdown();
 });
